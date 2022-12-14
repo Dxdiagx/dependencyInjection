@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/dependcyInjection.iml" filepath="$PROJECT_DIR$/dependcyInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencyInjection.iml" filepath="$PROJECT_DIR$/dependencyInjection.iml" />
     </modules>
   </component>
 </project>
